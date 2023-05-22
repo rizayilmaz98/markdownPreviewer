@@ -1,0 +1,29 @@
+.scrollable-text {
+    height: auto;
+    overflow-x: hidden;
+}
+.heightForum{
+    height: 70vh;
+}
+body{
+    background-color: #FCCB38;
+    color: #323232;
+}
+.bg-yellow{
+    background-color: #FFEEB4;
+}
+.bg-yellow-1{
+    background-color: #fae6a0;
+}
+.cursor{
+    cursor: pointer;
+}
+.shadow-border-1{
+box-shadow: rgba(3, 3, 3, 0.4) 5px 5px, rgba(37, 37, 37, 0.3) 10px 10px, rgba(66, 65, 65, 0.2) 15px 15px, rgba(130, 127, 129, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+.shadow-border-2{
+    box-shadow: rgba(3, 3, 3, 0.4) -5px 5px, rgba(37, 37, 37, 0.3) -10px 10px, rgba(66, 65, 65, 0.2) -15px 15px, rgba(130, 127, 129, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+}
+textarea{
+    outline: none;
+}
